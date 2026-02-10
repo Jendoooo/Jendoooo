@@ -62,21 +62,6 @@ Data-driven screening and performance analysis of metal–organic frameworks (MO
 
 ---
 
-### Reservoir Optimization (Chevron Nigeria)
-Designed gas-lift systems and conducted decline curve analysis (DCA) during production engineering tenure.
-
-**Tech:** PROSPER, MBAL, nodal analysis
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jendoooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jendoooo&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
----
-
 ## 🎓 Background
 
 - **MSc Sustainable Engineering** | University of Strathclyde (Commonwealth Scholar)
