@@ -71,10 +71,9 @@ Designed gas-lift systems and conducted decline curve analysis (DCA) during prod
 
 ## 📊 GitHub Activity
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jendoooo&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jendoooo&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jendoooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jendoooo&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
@@ -85,7 +84,7 @@ Designed gas-lift systems and conducted decline curve analysis (DCA) during prod
 
 ---
 
-## Writing & Engagement
+## 📢 Writing & Engagement
 
 - **Technical writing** on applied analytics and engineering workflows at [Medium](https://medium.com/@olajideayeola)
 - **Mentorship:** Technical lead for high school students learning software engineering foundations
@@ -93,7 +92,7 @@ Designed gas-lift systems and conducted decline curve analysis (DCA) during prod
 
 ---
 
-## Open to Opportunities
+## 💼 Open to Opportunities
 
 I'm actively exploring roles in:
 
