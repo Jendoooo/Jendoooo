@@ -1,34 +1,47 @@
-**Hello there, welcome! 👋🏾**
+## Olajide Ayeola  
+**Sustainable Engineering • Data Systems • Applied Analytics**
 
-I'm [Olajide Ayeola](https://x.com/olajide_ayeola),  a Graduate Student in Sustainable Engineering in the UK, with a strong foundation in Data Analytics and a background in Chemical Engineering. I’m passionate about leveraging Data Science and Web Engineering to drive sustainable development and tackle socio-economic challenges. I'm also aiming to break into Data Engineering to further advance my technical skills.
+Chemical Engineer with industry experience applying data engineering and analytics to real physical systems. My work sits at the intersection of engineering infrastructure, large-scale data, and decision-focused reporting.
 
-Currently, I volunteer as a mentor for young people interested in tech, guiding high school students on foundational software engineering principles and helping them navigate the world of technology.
+I’ve worked across energy systems, port operations, and production engineering — building reliable data pipelines, analyzing time-series telemetry, and translating messy operational data into outputs that engineers and decision-makers can use.
 
-Alongside my analytics work, I create technical content and share insights from my personal journey on my [Medium](https://medium.com/@olajideayeola). 
+---
 
+### 🛠 Technical Stack
+- **Languages:** Python (Pandas, NumPy, Scrapy, Selenium), SQL (T-SQL, PostgreSQL), JavaScript  
+- **Data & Analytics:** Power BI, Azure SQL, API integration, ETL automation  
+- **Engineering:** Heat & mass balance, process modeling, nodal analysis (PROSPER, MBAL), system diagnostics  
+- **Workflow:** Git, Excel/VBA, Power Automate
 
-Here’s a bit more about my skills and goals:
+---
 
-**🌱 Current Skills & Learning**
+### 🚀 Selected Projects
 
-Web Scraping & Data Extraction: Proficient in Python-based scraping tools like BeautifulSoup and Scrapy.
-Tech Stack: Skilled in Python, SQL, Pandas, NumPy, Matplotlib, and familiar with Power BI for data visualization.
-Learning: Developing expertise in JavaScript and Python for web development, with a focus on expanding into data engineering.
+**District Heating System Analytics**  
+Analyzed **8M+ rows** of high-frequency telemetry from a biomass district heating network in Fintry, Scotland. Built SQL-to-Power BI pipelines to assess boiler efficiency, heat losses, and control issues, supporting long-term decarbonisation studies (hydrogen vs heat pumps).
 
-**💼 Career Aspirations**
+**Carbon Capture Materials Research**  
+Data-driven screening and performance analysis of metal–organic frameworks (MOFs) for **CO₂/CH₄ separation**, combining thermodynamic modeling with reproducible Python workflows.
 
-Actively exploring opportunities in:
-Data Engineering and Data Analysis
-Back-End Development
-Graduate Engineering Roles
-📫 Contact
-Feel free to reach out via email.
+**Port Operations Data Automation**  
+Founded and scaled an operations analytics function at a major seaport. Designed SQL pipelines and reporting SOPs for vessel throughput and container tracking, cutting report turnaround time by **~90%**.
+---
 
-**GitHub Stats**
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jendoooo&show_icons=true&include_all_commits=true&hide_border=true" alt="Olajide Ayeola's GitHub stats" />	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jendoooo&langs_count=8&layout=compact&hide_border=true" alt="Olajide's GitHub stats" />
+### 🎓 Background
+- **MSc Sustainable Engineering**, University of Strathclyde (Commonwealth Scholar)  
+- **BEng Chemical Engineering**, First Class Honours
 
-**More About Me**
-Experienced in advanced SQL and Python for data analytics, reporting automation, and data security.
-Skilled at web scraping to extract insights and automate data-gathering processes.
-Dedicated to mentoring young tech enthusiasts and sharing insights on data science and web engineering.
-Passionate about developing data-driven solutions for sustainable engineering and societal impact.
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jendoooo&show_icons=true&include_all_commits=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jendoooo&langs_count=8&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+### ✍🏽 Writing & Engagement
+- Technical writing on applied analytics and engineering systems  
+- Mentorship in foundational software and data skills
+
